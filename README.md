@@ -7,6 +7,7 @@
 - Buy a ticket with given row number and seat number
 - Total Sales (TBA)
 - Refund a ticket by ID(TBA)
+- Error/Exception handling
 
 # How to use the cinema manager?
 1. Run Cinema.java main method
